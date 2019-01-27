@@ -3,7 +3,7 @@ naughty_list = Hash.new
 naughty_list = {
     "Danny" => "nice",
     "Jessica" => "naughty",
-    "Linda" => 'naughty'
+    "Linda" => 'nice'
 }
 
 naughty_list.each do |key, value|
